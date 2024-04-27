@@ -4,5 +4,6 @@ public class Variables {
         long viewCount = 5123456789L;
         float price = 19.99F;
         boolean isEligible = false;
+        System.out.println(age+"\t"+viewCount+"\t"+price+"\t"+isEligible);
     }
 }
